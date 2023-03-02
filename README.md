@@ -46,5 +46,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Abdullahi-abdiaziz)
-- Twitter - [@yourusername](https://www.twitter.com/apdllah_abdaziz)
+- Frontend Mentor - [@abdallah](https://www.frontendmentor.io/profile/Abdullahi-abdiaziz)
+- Twitter - [@abdallah](https://www.twitter.com/apdllah_abdaziz)
